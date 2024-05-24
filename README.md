@@ -30,7 +30,7 @@ Biodigestor:
 
       👩🏻 Ana Beatriz Nunes
 
-         Email: biafreirenunes2015@gmail.com 
+         Email: biafreirenunes2015@gmail.com
 
       👩🏻 Ana Luiza Souto
 
@@ -42,7 +42,7 @@ Biodigestor:
 
       🧑🏻 Gabriel Gonçalves
       
-         Email:
+         Email: gabrielyuyu@hotmail.com
 
       🧔🏻‍♂️ Lucas Guimarães 
       
