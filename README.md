@@ -38,18 +38,22 @@ Integrantes do projeto:
          Email: carollmellosilv@gmail.com
 
       🧑🏻 Gabriel Gonçalves
+      
          Email:
 
       🧔🏻‍♂️ Lucas Guimarães 
+      
          Email:
 
       👨🏽‍🦱 Luiz Eduardo Neto
+      
          Email:
 
       👩🏻 Maria Eduarda Pollhuber
+      
          Email:
 
-🧑🏻 Matheus Carvalho
+      🧑🏻 Matheus Carvalho
 
-Email: mendocacarvalhomatheus@gmail.com
+         Email: mendocacarvalhomatheus@gmail.com
    
