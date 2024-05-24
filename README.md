@@ -2,7 +2,7 @@ Projeto Ymã 🌿 - Biodigestor para a Ilha do Combu
    
 🎯 Objetivos:
 
-A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos derivados de insumos amazônicos e a falta de distribuição adequada para a ilha, por meio do uso de um biodigestor.
+A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos derivados de insumos amazônicos e a falta de distribuição de energia adequada para a ilha, por meio do uso de um biodigestor.
 
 💡 Funcionalidades do produto:
 
