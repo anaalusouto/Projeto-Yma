@@ -23,7 +23,7 @@ A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos
 
 Telas ou imagens do funcionamento do produto
    
-Integrantes do projeto:
+🛜 Integrantes do projeto:
 
       👩🏻 Ana Beatriz Nunes
 
