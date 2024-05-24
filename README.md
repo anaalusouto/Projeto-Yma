@@ -9,12 +9,15 @@ Projeto Ymã 🌿
 Integrantes do projeto:
 
 👩🏻 Ana Beatriz Nunes
+
 Email: biafreirenunes2015@gmail.com 
 
 👩🏻 Ana Luiza Souto
+
 Email: anaalusotuo@gmail.com
 
 👱🏻‍♀️ Carolline Mello
+
 Email: carollmellosilv@gmail.com
 
 🧑🏻 Gabriel Gonçalves
@@ -30,5 +33,6 @@ Email:
 Email:
 
 🧑🏻 Matheus Carvalho
+
 Email: mendocacarvalhomatheus@gmail.com
    
