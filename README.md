@@ -2,7 +2,7 @@ Projeto Ymã 🌿 - Biodigestor para a Ilha do Combu
    
 🎯 Objetivos:
 
-A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos derivados de insumos amazônicos e a falta de distribuição adequada para a ilha, por meio do uso de um biodigestor.
+A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos derivados de insumos amazônicos e a falta de distribuição de energia adequada para a ilha, por meio do uso de um biodigestor.
 
 💡 Funcionalidades do produto:
 
@@ -21,7 +21,10 @@ A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos
       🔹 MPX5050GP: Usado para detectar pressões altas (Caso ocorra dentro do prototipo em si)
 
 
-Telas ou imagens do funcionamento do produto
+Biodigestor:
+
+   ![image](https://github.com/anaalusouto/Projeto-Yma/assets/129214231/663ab30d-53eb-4c18-9c63-d72e6439eccc)
+
    
 🛜 Integrantes do projeto:
 
