@@ -19,34 +19,35 @@ A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos
       🔹 MQ2: Usado para detectar fumaça (Caso ocorra um aumento de temperatura que cause uma queima)
 
       🔹 MPX5050GP: Usado para detectar pressões altas (Caso ocorra dentro do prototipo em si)
-   
-5. Telas ou imagens do funcionamento do produto
+
+
+Telas ou imagens do funcionamento do produto
    
 Integrantes do projeto:
 
-👩🏻 Ana Beatriz Nunes
+      👩🏻 Ana Beatriz Nunes
 
-Email: biafreirenunes2015@gmail.com 
+         Email: biafreirenunes2015@gmail.com 
 
-👩🏻 Ana Luiza Souto
+      👩🏻 Ana Luiza Souto
 
-Email: anaalusotuo@gmail.com
+         Email: anaalusotuo@gmail.com
 
-👱🏻‍♀️ Carolline Mello
+      👱🏻‍♀️ Carolline Mello
 
-Email: carollmellosilv@gmail.com
+         Email: carollmellosilv@gmail.com
 
-🧑🏻 Gabriel Gonçalves
-Email:
+      🧑🏻 Gabriel Gonçalves
+         Email:
 
-🧔🏻‍♂️ Lucas Guimarães 
-Email:
+      🧔🏻‍♂️ Lucas Guimarães 
+         Email:
 
-👨🏽‍🦱 Luiz Eduardo Neto
-Email:
+      👨🏽‍🦱 Luiz Eduardo Neto
+         Email:
 
-👩🏻 Maria Eduarda Pollhuber
-Email:
+      👩🏻 Maria Eduarda Pollhuber
+         Email:
 
 🧑🏻 Matheus Carvalho
 
