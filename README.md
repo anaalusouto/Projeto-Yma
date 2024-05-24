@@ -22,6 +22,9 @@ A Ymã tem como objetivo principal solucionar o problema do excesso de resíduos
 
 
 Telas ou imagens do funcionamento do produto
+
+![image](https://github.com/anaalusouto/Projeto-Yma/assets/129214231/663ab30d-53eb-4c18-9c63-d72e6439eccc)
+
    
 🛜 Integrantes do projeto:
 
