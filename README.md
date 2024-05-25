@@ -57,6 +57,10 @@ Biodigestor:
          Email:
 
       🧑🏻 Matheus Carvalho
-
          Email: mendocacarvalhomatheus@gmail.com
-   
+
+Acesso ao PDF do Artigo:
+
+   [Artigo PI - Biodigestor.pdf](https://github.com/anaalusouto/Projeto-Yma/files/15443519/Artigo.PI.-.Biodigestor.pdf)
+
+
